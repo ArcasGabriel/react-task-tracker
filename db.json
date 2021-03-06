@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Food Shopping",
+      "day": "Friday",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Testing activity",
+      "day": "Monday",
+      "reminder": true
+    },
+    {
+      "text": "Take test ",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Read from table",
+      "day": "Saturday",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
